@@ -570,16 +570,6 @@ In short:
 
 ---
 
-## Author
-
-**Rishu Pandey**
-
-AI & Data Science
-
-SISTec
-
----
-
 ## License
 
 This project was created as a prototype/take-home assignment for demonstrating software engineering, validation design, AI integration, and human-in-the-loop system design.
