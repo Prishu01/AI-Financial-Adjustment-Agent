@@ -467,7 +467,7 @@ The test suite covers:
 │ JE-001 │ Accrue Q4 bonus pool     │ ACCEPT     │ 850,000.00 │ 850,000.00 │ 0.00     │
 │ JE-002 │ Reclassify marketing     │ REJECT     │ 28,500.00  │ 25,000.00  │ 3,500.00 │
 │ JE-003 │ FX revaluation           │ QUARANTINE │ 11,200.00  │ 11,200.00  │ 0.00     │
-│ JE-004 │ Bad debt provision        │ ACCEPT     │ 45,000.00  │ 45,000.00  │ 0.00     │
+│ JE-004 │ Bad debt provision        │ ACCEPT     │ 45,000.00  │ 45,000.00  │ 0.00    │
 │ JE-008 │ Intercompany settlement  │ QUARANTINE │ 320,000.00 │ 320,000.00 │ 0.00     │
 └────────┴──────────────────────────┴────────────┴────────────┴────────────┴──────────┘
 ```
@@ -567,9 +567,3 @@ The runtime AI component is optional and is limited to generating natural-langua
 In short:
 
 > **Less AI for decisions, more deterministic engineering for correctness.**
-
----
-
-## License
-
-This project was created as a prototype/take-home assignment for demonstrating software engineering, validation design, AI integration, and human-in-the-loop system design.
